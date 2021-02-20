@@ -2,7 +2,7 @@
 <p align="center">
 	Ini adalah aplikasi TOKOKU menggunakan framework Codeigniter 3 
 	<br>
-  <a href=""><strong> Demo » (Coming Soon)</strong></a>
+  <a href="https://github.com/codepeka/tokoku"><strong> Demo » (Coming Soon)</strong></a>
 </p>
 
 ## Features
@@ -25,7 +25,7 @@
 
 ## LINK 
 
-`<Demo>` : <https://github.com/codepeka/PPDB_SD> 
+`<Demo>` : <https://github.com/codepeka/tokoku> 
 
 `<Donasi>` : <https://saweria.co/codepeka> 
 <br>
